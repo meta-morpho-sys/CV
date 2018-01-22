@@ -28,7 +28,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 #### [Makers Academy](http://www.makersacademy.com) (June 2017 - September 2017)
 - Full stack web development
 (HTML5, CSS, Javascript, Ruby, Rails,  Node.js, PostgreSQL)
-- TDD (using RSpec, Jasmine, Mocha, Chai)
+- TDD (using RSpec, Capybara, Jasmine, Mocha, Chai)
 - OOP, MVC
 - Software Craftsmanship
 
