@@ -42,6 +42,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 | Project | Description | Technology | Test Framework |
 | ------  |   ------    |  -------   |  ------|
 | [PacMean](https://github.com/meta-morpho-sys/pacmean)| Cloned the famous PacMan in less than 3 days| Javascript | Jasmine, Travis |
+| [Bookmark Manager](https://github.com/meta-morpho-sys/new_bookmark_manager)| Web app to store and manage Bookmarks. My first approach to security issues and nice customer experience | Ruby, Sinatra, PG, BCrypt | RSpec, Capybara, Rubocop, Simplecov|
 | [MakersBNB](https://github.com/meta-morpho-sys/makersbnb)| Cloned Airbnb| Ruby, Sinatra, DataMapper| RSpec, Capybara, Rubocop, Simplecov|
 |[Acebook](https://github.com/meta-morpho-sys/acebook-remote-july-2017)| Cloned Facebook| Rails, PG, Devise, Heroku| RSpec-Rails, Travis|
 
@@ -64,6 +65,6 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 
 
 ## Interests
-- Tech meetups, AI conferences. Active participant of London Futurists
+- Tech meetups, Security, AI conferences. Active participant of London Futurists
 - Running and long distance cycling
 - I am a jazz singer, too
