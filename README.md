@@ -64,6 +64,12 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 *PK Spa, Milan, Italy*
 
 
+## Favourite readings(some of them...)
+- [The Twelve Factor App](https://12factor.net/)
+- [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html)
+- [martinfowler.com](https://martinfowler.com/)
+
+
 
 ## Interests
 - Tech meetups, Security, AI conferences. Active participant of London Futurists
