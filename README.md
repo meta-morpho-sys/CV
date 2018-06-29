@@ -15,7 +15,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 | *Skill* | *Description*|
 | --- | --- |
 |*Programming language agnostic* | With experience in Ruby, Javascript, Python, HTML5, CSS, SQL |
-| *Git and GitHub* | Daily experience over the last five months with the git command line and GitHub UI, creating around forty repositories, resolving merge conflicts, managing branches, raising pull requests and coordinating work with a large remote team. |
+| *Git and GitHub* | Daily experience over the last year with the git command line and GitHub UI, creating around forty repositories, resolving merge conflicts, managing branches, raising pull requests and coordinating work with a large remote team. |
 | *Polyglot*| Fluency in Russian, Italian, Bulgarian and English, and have nearly twenty years of experience in translation.|
 | *Perseverance and scrutiny* |My natural inclination is to follow up on problems, look at them from different perspectives, and to anticipate possible outcomes.|
 | *Creatively driven and logically minded*| Colleagues can always rely on my ability to listen and analyse a problem and find a logical solution, combined with optimisation of time and efforts.|
@@ -27,7 +27,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 
 #### [Makers Academy](http://www.makersacademy.com) (June 2017 - September 2017)
 - Full stack web development
-(HTML5, CSS, Javascript, Ruby, Rails,  Node.js, PostgreSQL)
+(HTML5, CSS, Javascript, Ruby, Rails,  Node.js, Sequel, PostgreSQL, SQLite3)
 - TDD (using RSpec, Capybara, Jasmine, Mocha, Chai)
 - OOP, MVC
 - Software Craftsmanship
@@ -42,6 +42,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 | Project | Description | Technology | Test Framework |
 | ------  |   ------    |  -------   |  ------|
 | [PacMean](https://github.com/meta-morpho-sys/pacmean)| Cloned the famous PacMan in less than 3 days| Javascript | Jasmine, Travis |
+| [Chitter](https://github.com/meta-morpho-sys/new_chitter)| A little Twitter clone that will allow the users to post messages to a public stream. This app is dedicated to the study of the Sequel gem, exploring both its comprehensive ORM layer and ways of creating a customized ORM from scratch.  | Ruby, Sinatra, SQLite3, BCrypt, Rake | RSpec, Capybara, Rubocop, Simplecov|
 | [Bookmark Manager](https://github.com/meta-morpho-sys/new_bookmark_manager)| Web app to store and manage Bookmarks. My first approach to security issues and good customer experience | Ruby, Sinatra, PG, BCrypt | RSpec, Capybara, Rubocop, Simplecov|
 | [MakersBNB](https://github.com/meta-morpho-sys/makersbnb)| Cloned Airbnb| Ruby, Sinatra, DataMapper| RSpec, Capybara, Rubocop, Simplecov|
 |[Acebook](https://github.com/meta-morpho-sys/acebook-remote-july-2017)| Cloned Facebook| Rails, PG, Devise, Heroku| RSpec-Rails, Travis|
