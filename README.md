@@ -68,6 +68,7 @@ I fluently speak four languages and have a constant enthusiastic curiosity about
 - [The Twelve Factor App](https://12factor.net/)
 - [The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html)
 - [martinfowler.com](https://martinfowler.com/)
+- [The Phoenix project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
 
 
